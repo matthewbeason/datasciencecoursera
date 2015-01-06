@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Data Science Toolbox Coursework
+Data Science Specialization Coursework
